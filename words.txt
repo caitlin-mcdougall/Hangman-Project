@@ -1,0 +1,14 @@
+tennis, sport
+basketball, sport
+football, sport
+baseball, sport
+badminton, sport
+hockey, sport
+swimming, sport
+belgium, country
+england, country
+scotland, country
+france, country
+red, colour
+brown, colour
+indigo, colour
